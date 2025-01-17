@@ -27,6 +27,6 @@ yarn-error.log*
 
 # local and env files
 .env*.local
-.env
 
 tmp/
+config.bat
